@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (5.2.2)
+  - Cosmos (21.0.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Kingfisher (5.15.0):
+    - Kingfisher/Core (= 5.15.0)
+  - Kingfisher/Core (5.15.0)
+  - RimhTypingLetters (0.1.1)
+  - SearchTextField (1.2.4)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+  - TextFieldEffects (1.6.0)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos (~> 21.0)
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - RimhTypingLetters
+  - SearchTextField
+  - SVProgressHUD
+  - SwiftyJSON
+  - TextFieldEffects
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - RimhTypingLetters
+    - SearchTextField
+    - SVProgressHUD
+    - SwiftyJSON
+    - TextFieldEffects
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Kingfisher: 1acb67597a520c2d0310677e66d6e0af455ef757
+  RimhTypingLetters: 914370e62a8280bcfc44bbcd887323bbaa0df609
+  SearchTextField: 40dc3cc57def5a211f263cac263622c163bbc25a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: 3c10dac7915ef9ed8369a02df5271198f6c9fe3b
+
+COCOAPODS: 1.9.1
